@@ -6,9 +6,11 @@ WarBot Archiver is the compression tool with unbelievable high compression rate.
 To use Warbot Archiver need:
 ============================
 Windows OS: Win98/98SE/Me/2000/NT/XP/Vista
+
 Linux OS: Ubuntu, Debian
 
 Minimum requirements:
 =====================
 Processor: 1,5 GHz
+
 Memory: 256 MB
